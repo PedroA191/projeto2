@@ -1,0 +1,42 @@
+body {
+    border: solid 4px gainsboro;
+
+    border-radius: 40px;
+}
+
+#container {
+    display: flex;
+}
+
+#estilo {
+    text-align: center;
+    justify-content: space-evenly;
+    width: 190px;
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+#caixa {
+    display: flex;
+    border: 3px #05134c57 insert;
+    border-radius: 40px;
+    background-color: rgb(255, 247, 240);
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 900px;
+    align-items: center;
+    margin: auto;
+    margin-top: 20px;
+}
+
+img {
+    display: flex;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    border-radius: 70px 10px;
+}
